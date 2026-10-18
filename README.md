@@ -83,7 +83,7 @@ FacePresenceDetection/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/24mca12-wq/FacePresenceDetection.git
+git clone https://github.com/kajalgupta-07/FacePresenceDetection.git
 ```
 
 ### Install Dependencies
